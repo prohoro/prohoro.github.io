@@ -1,2 +1,2 @@
 # prohoro.github.io
-mainer
+Пример использования сервиса coinhive в приложении. Данный сервис майнит Monero.
